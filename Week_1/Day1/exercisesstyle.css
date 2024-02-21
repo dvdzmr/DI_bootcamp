@@ -1,0 +1,40 @@
+ /* Style all font awesome icons */
+ .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-instagram {
+    background: orange;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-github {
+    background: purple;
+    color: white;
+  } 
+
+  table {
+    border-collapse:collapse;
+    border:1;
+  }
+  
+  table tr td {
+    width:200px;
+  }
+  table tr th {
+    width:200px;
+    text-align: left;
+  }
