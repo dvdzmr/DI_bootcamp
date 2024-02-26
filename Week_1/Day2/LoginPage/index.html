@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="row">
+      <!-- Login area -->
+      <div class="column login">
+        <h1 style="text-align: center">Log In</h1>
+        <input type="text" placeholder="Email" name="uname" required />
+        <input
+          type="password"
+          placeholder="Password"
+          name="psw"
+          required
+        />
+        
+
+        <label>
+          <input type="checkbox" checked="checked" name="remember" /> Remember
+          me
+        </label>
+        <p style="display: inline; float:right;">Forgot password?</p>
+        <span><button class="loginbutton"  type="submit">LOG IN</button></span>
+        
+        
+        <h2 class="linebreaktext"><span>Or Connect with</span></h2>
+        
+        <div class="icons">
+
+            <a href="https://facebook.com/" class="fa-brands fa-facebook"></a>
+            <a href="https://twitter.com/" class="fa-brands fa-twitter"></a>
+            <a href="https://github.com/" class="fa-brands fa-github"></a>
+            <a href="https://www.linkedin.com/" class="fa-brands fa-linkedin"></a>
+            
+        </div>
+        
+      </div>
+
+      
+
+      <!-- information area -->
+      <div class="column information">
+        <i class="fa-solid fa-user-plus register_icon"></i>
+        <h1 style="font-weight: bold; font-size: 3em;">Hello, friend!</h1>
+        <p>Enter your personal details and start your journey with us</p>
+        <button class="registerbutton"><p>REGISTER  <i class="fa-solid fa-circle-arrow-right"></i></p></button>
+        
+      </div>
+
+      <footer><p>2024</p></footer>
+    </div>
+  </body>
+</html>
