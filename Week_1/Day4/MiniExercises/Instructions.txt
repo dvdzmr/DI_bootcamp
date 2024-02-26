@@ -1,0 +1,59 @@
+BOOTSTRAP EXERCISE 1
+
+Create a stuctured html file with Boostrap CDN.
+
+!! Make sure to put a border in each of the block so you can see the way they work !!
+
+1. Create a structure with a container, 2 rows and 3 columns in each row. What should be the width of each column so that the 3 columns will take the whole width of the row ?
+
+2. Create a structure with a container, 2 rows and 2 columns in each row. Use offset to make a space between the 2 columns
+
+3. Create a structure with 2 rows and 2 columns in each row. What happens if you don't have any container ?
+
+4. Create a structure with a container, 2 columns. What happens if you don't have any row ?
+
+5. Create a structure with a container, 1 row and 3 columns in the row. Make it responsive so depending of the width of the screen, the columns will be displayed differently. Write a code for 4 different type of screen.
+
+
+
+BOOTSTRAP EXERCISE 2
+
+On the same HTML file as above
+
+1. Create a few alerts. Look on Bootstrap documentation to make 3 different alerts : blue, green red
+
+2. Create a few buttons. Look on Bootstrap documentation to make 3 different buttons : blue, green red
+
+3. Change the width of the alerts and of the buttons
+
+4. Make the 3 buttons next to each other horizontally
+
+5. Create a form that has 4 inputs : name, surname, phone number and email. The button of the form should be an icon of your choice
+
+6. Make the form responsive depending on the width of the screen
+
+
+
+GITHUB EXERCISE 1
+
+1. Work now alone
+
+2. In the initial repo (Exercise1), and from the main branch create a new branch called weather. 
+Checkout to this new branch and add this sentence to hello.txt: Hey it's sunny today! . Than add, commit and push
+
+3. Checkout to your main branch, has something changed in hello.txt ?
+
+4. Checkout again to the weather branch and create a new file called talking_about_weather.txt and add 
+this sentence Hey what do you think about the weather today?. Than add, commit and push
+
+5. In order to see all the changes made in the new branch, inside the main branch, 
+checkout to the main branch and merge inside the weather branch.
+
+
+GITHUB EXERCISE 2
+
+1. Work now in pairs (the same as before)
+
+2. You will both work on the RepoB. From the main branch,the person 1 will create a new branch in the Repob called hobbies, add a new file hobbies.txt with the sentence Hey I love swimming! . Than add, commit and push.
+
+3. On Github, click on the button "Compare and pull request", and merge the new branch with the main branch. Check before if they are not merging issues.

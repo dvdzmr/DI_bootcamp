@@ -1,0 +1,7 @@
+
+
+Recreate the patterns found below in the assets.
+Style the patterns with either Grid or Flexbox or both.
+
+
+https://github.com/devtlv/studentsGitHub/blob/master/Python/Week1/Day4/DailyChallenge/screencapture.png?raw=true

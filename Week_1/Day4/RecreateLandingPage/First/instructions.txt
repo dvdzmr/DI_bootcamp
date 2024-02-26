@@ -1,0 +1,9 @@
+
+Recreate the landing page found below in the assets
+Style the landing page with Bootstrap, use FontAwesome for the icons.
+Make sure your landing page is responsive.
+You can find nice background images at https://pixabay.com/images/search/computer/
+
+https://github.com/devtlv/studentsGitHub/blob/master/Python/Week1/Day3/ExerciseXPGold/HomepageCSS-1024x576.png?raw=true
+
+

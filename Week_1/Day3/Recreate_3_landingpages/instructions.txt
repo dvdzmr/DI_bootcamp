@@ -1,0 +1,23 @@
+In this exercise we will be recreating the landing pages found below in the assets.
+
+    Recreate the landing pages found below in the assets with advanced CSS.
+    The landing pages must be responsive, decide which of the following methods is best to use in this case:
+        Media Queries
+        Flexbox
+        Grid
+    For the first landing page, when viewing the landing page on a mobile device, the 3 blocks should be displayed one on top of the other.
+
+
+FIRST:
+
+https://github.com/devtlv/studentsGitHub/blob/master/Python/Week1/Day4/shopify-design-landing-page-social-proof.png?raw=true
+
+SECOND:
+
+https://github.com/devtlv/studentsGitHub/blob/master/Python/Week1/Day4/hubspot-landing-page-2.jpg?raw=true
+
+THIRD:
+
+https://github.com/devtlv/studentsGitHub/blob/master/Python/Week1/Day4/callrail-landing-page-example.png?raw=true
+
+

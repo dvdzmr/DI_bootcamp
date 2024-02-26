@@ -1,0 +1,7 @@
+
+Recreate the pattern found below in the assets.
+Style the pattern with either Grid or Flexbox or both.
+
+https://developers.institute/wp-content/uploads/2020/10/imagecss.png
+
+

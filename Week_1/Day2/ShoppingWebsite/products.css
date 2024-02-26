@@ -104,22 +104,27 @@
 .icon {
   transition: .5s ease;
   opacity: 0;
-  position: absolute;
-  top: 30%;
-  left: 35%;
-  transform: translate(-30%, -30%);
-  -ms-transform: translate(-30%, -30%);
-  text-align: center;
+  position: relative;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
-.icon_item {
-  margin-left: 20px;
-}
-
-.icon_item:hover .icon_text {
-  opacity: 1;
-}
 
 .card:hover .icon {
   opacity: 1;
+}
+
+.btn {
+  max-width: fit-content;
+  background-color: black; 
+  border: none;
+  color: white; 
+  margin-left: 7px;
+  font-size: 16px; 
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: green;
 }

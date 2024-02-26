@@ -1,0 +1,7 @@
+Recreate and style the login page found below in the assets.
+
+Use font-awesome for the social media icons and link them to your social media pages.
+
+
+https://github.com/devtlv/studentsGitHub/blob/master/Python/Week1/Day2/ExerciseXPGold/pic.png?raw=true
+

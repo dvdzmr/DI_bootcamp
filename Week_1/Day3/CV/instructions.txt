@@ -1,0 +1,17 @@
+Code and design your own CV responsive webpage, using HTML & CSS
+
+    Use basic CSS, Flexbox and Grid
+    The CV must be responsive. You may need to use Media Queries
+    Use fontawesome for your social media icons and link them to your social media pages.
+    Use images.
+    Make a contact form.
+    Take a look below in the assets where you can find a few examples.
+    
+
+    https://user-images.githubusercontent.com/30896388/168800983-8e798f88-3f68-494b-9e55-7aa2feaa4b9c.jpg
+
+    https://user-images.githubusercontent.com/30896388/168801048-609ae5ce-e285-4291-b8a9-1a938db8bf68.jpg
+
+    https://user-images.githubusercontent.com/30896388/168802605-4a3d42d6-aa79-43d5-90f3-566f7ea951a9.jpg
+
+    https://user-images.githubusercontent.com/30896388/168801953-260c03a6-94f1-4f0a-a55b-d5237116ebd2.jpg

@@ -1,0 +1,8 @@
+
+Recreate the landing page found below in the assets.
+Style the landing page with Bootstrap.
+Make sure your landing page is responsive.
+
+
+https://github.com/devtlv/studentsGitHub/blob/master/Python/Week1/Day3/template_exercise.jpg?raw=true
+
