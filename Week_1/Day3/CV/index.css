@@ -1,0 +1,78 @@
+body {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    position: relative;
+    background-color: gray;
+    max-width: 1600px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.leftbox {
+    position: relative;
+    padding: 20px;
+}
+
+.rightbox {
+    position: relative;
+    padding: 20px;
+}
+
+.myname {
+    position: relative;
+    display: flex-end;
+    align-items: column;
+    padding: 3%;
+}
+
+.experience {
+    margin-bottom: 10px;
+}
+
+.about {
+    display: flex-end;
+    margin-bottom: 50px;
+    flex-direction: row;
+}
+
+.skills {
+    position: relative;
+    display: grid;
+    width: 100%;
+
+}
+
+@media (max-width: 1200px) {
+    .container {
+        margin: 10px;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .interest ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .about .box {
+        flex-direction: column;
+    }
+
+    .about .box .year_company {
+        margin-bottom: 5px;
+    }
+
+    .interest ul {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .skills .box {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
