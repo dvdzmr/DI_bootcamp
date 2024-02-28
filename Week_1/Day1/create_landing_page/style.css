@@ -105,8 +105,8 @@ input[type=reset] {
     height: fit-content;
   }
 
-.article img {
-    max-width: 100px;
+.article_icon {
+    font-size: 5em;
 }
 
 .article p {
