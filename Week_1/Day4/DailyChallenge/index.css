@@ -3,7 +3,13 @@
 }
 
 .offwhite {
+    padding-top: 3%;
     background-color:antiquewhite;
+}
+
+.offwhite h4 {
+    color: gray;
+    font-style: italic;
 }
 
 .side {
@@ -29,4 +35,37 @@
     height: auto;
     max-width: 100%;
     vertical-align: middle;
+  }
+
+  .sidebox {
+    width: 75%;
+    margin: 50px;
+    background-color: lightgray;
+    border: 1px darkgray;
+    height: 25vh;
+  }
+
+.sidetitle {
+        padding-top: 5%;
+        margin-left: 25%;
+}
+
+  .sidetext {
+    /* padding-top: 5%; */
+    margin-left: 25%;
+    margin-bottom: 5%;
+  }
+
+  .searchbar {
+    max-width: 80%;
+    margin-left: 10%;
+    /* transform: translate(-50%); */
+  }
+
+  .textgray {
+    font-weight: bold; color: gray;
+  }
+
+  .textblue {
+    font-weight: bold; color: blue;
   }
