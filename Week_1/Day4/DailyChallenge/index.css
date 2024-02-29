@@ -1,0 +1,32 @@
+.lightgray {
+    background-color: lightgrey;
+}
+
+.offwhite {
+    background-color:antiquewhite;
+}
+
+.side {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.row ul {
+    width: 100%;
+}
+.row li {
+    width: 25%;
+    float: left;
+    text-align: justify;
+    list-style-type:none;
+    margin-left: 5%;
+
+  }
+  
+  img {
+    border: 5px solid lightgray;
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+  }
