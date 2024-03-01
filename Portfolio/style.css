@@ -1,0 +1,30 @@
+body {
+    background-color: #272D2D;
+    font-family: "Montserrat", sans-serif;
+}
+
+.styled-menu {
+    margin-right: 5%;
+    margin-top: 1%;
+}
+
+.coverphoto {
+    position: relative;
+}
+
+.phototext {
+    font-size: 6.5em;
+    color: whitesmoke;
+    position: absolute;
+    top: 80%;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.category-title {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 3.5em;
+    margin-top: 5%;
+}
