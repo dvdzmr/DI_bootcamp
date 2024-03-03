@@ -1,49 +1,144 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Bootstrap CSS and JS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
     <!-- Google fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
-        <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="./style.css">
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <!-- JS scripts -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
 
     <title>David Zamir's Portfolio</title>
-</head>
+  </head>
 
-<body>
-
-    <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
-        <div class="container-fluid">
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav ms-auto styled-menu">
-              <a class="nav-link h3" href="#recent">Recent Work</a>
-              <a class="nav-link h3" href="#about">About</a>
-              <a class="nav-link h3" href="#contact">Contact</a>
-            </div>
+  <body>
+    <!-- navbar desktop -->
+    <nav class="navbar navbar-expand-lg navbar-expand-md navbar-dark fixed-top">
+      <div class="container-fluid">
+        <!-- TODO: auto remove brand when scrolling down -->
+        <a class="navbar-brand navtext" href="/" id="header-logo"
+          >David Zamir
+        </a>
+        <!-- navbar on mobile (hamburger dropdown) -->
+        <button
+          class="navbar-toggler ms-auto"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navigationbar"
+          aria-controls="navigationbar"
+          aria-expanded="false"
+          aria-label="Mobile Navbar"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- TODO: solid background / dropdown when clicking hamburger menu on mobile -->
+        <div class="collapse navbar-collapse" id="navigationbar">
+          <div class="navbar-nav navbar ms-auto styled-menu navbar-nav-scroll">
+            <a class="nav-link navtext" href="#recent">Recent work</a>
+            <a class="nav-link navtext" href="#about">About</a>
+            <a class="nav-link navtext" href="#contact">Contact</a>
           </div>
         </div>
-      </nav>
+      </div>
+    </nav>
 
     <!-- Header image with my name-->
     <div class="coverphoto">
-        <img src="./Images/david_header.jpg" class="img-fluid" alt="Cover Photo of David">
-        <div class="phototext">David Zamir</div>
-      </div> 
-
+      <picture>
+        <source
+          srcset="./img/david_header_mobile.jpg"
+          media="(max-width: 1000px)"
+        />
+        <source
+          srcset="./img/david_header_tablet.jpg"
+          media="(max-width: 1600px)"
+        />
+        <source srcset="./img/david_header.jpg" />
+        <img
+          src="./img/david_header.jpg"
+          class="img-fluid"
+          alt="Cover Photo of David"
+        />
+      </picture>
+      <!-- <div class="phototext">David Zamir</div> -->
+    </div>
 
     <!-- Recent work -->
 
     <div class="container">
-        <h1 class="category-title ">Recent Work</h1>
+      <p class="display-1 category-title">Recent Work</p>
+      <!-- TODO: open a new window or overlay an article (markdown) from ./articles/* -->
+      <div class="row">
+        <div class="col">
+          <img src="./img/portfolio/cabin.png" alt="" />
+        </div>
+        <div class="col">
+          <img src="./img/portfolio/cake.png" alt="" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <img src="./img/portfolio/circus.png" alt="" />
+        </div>
+        <div class="col">
+          <img src="./img/portfolio/embedded_computer.png" alt="" />
+        </div>
+        <div class="col">
+          <img src="./img/portfolio/game.png" alt="" />
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <img src="./img/portfolio/safe.png" alt="" />
+        </div>
+        <div class="col">
+          <img src="./img/portfolio/submarine.png" alt="" />
+        </div>
+        <div class="col">
+          <img src="./img/portfolio/cabin.png" alt="" />
+        </div>
+        <div class="col">
+          <img src="./img/portfolio/circus.png" alt="" />
+        </div>
+      </div>
     </div>
 
-
-    <!-- About -->              <!-- CV, background info about me -->
+    <!-- About -->
+    <!-- CV, background info about me -->
+    <div class="container">
+      <p class="display-1 category-title">About</p>
+      <p class="fw-normal">
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+        mollit anim id est laborum."
+      </p>
+    </div>
 
     <!-- <div class="container">
     <div class="progress">
@@ -63,9 +158,5 @@
       </div>
     </div> -->
     <!-- Contact information -->
-
-</body>
-
+  </body>
 </html>
-
-
