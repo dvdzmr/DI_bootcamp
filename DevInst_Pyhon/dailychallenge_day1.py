@@ -1,29 +1,20 @@
-# exercise 1
 
 
-def challenge_one(length, number):
-    i = 0
-    number_list = [number]
-    while i < length:
-        number_list.append(number_list[i]*2)
-        i += 1
-    print(number_list)
+def user_input():
+    user_text = input("Enter a string")
+    if len(user_text) < 10:
+        print("String not long enough")
+    if len(user_text) > 10:
+        print("String too long")
+    if len(user_text) == 10:
+        print("String is perfect")
+
+    print(user_text[0], user_text[-1])
+
+    empty_input = ""
+    for char in user_text:
+        empty_input += char
+        print(empty_input)
 
 
-challenge_one(5, 10)
-
-
-# exercise 2
-
-def challenge_two(userstring):
-    lastchar = ""
-    emptystring = ""
-    for char in userstring:
-        if char != lastchar:
-            lastchar = char
-            emptystring += char
-    print((emptystring))
-
-challenge_two("Hello")
-
-
+user_input()
