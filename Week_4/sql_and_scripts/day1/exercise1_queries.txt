@@ -1,0 +1,11 @@
+SELECT * FROM public.items;
+
+SELECT * FROM public.items WHERE price > 80;
+
+SELECT * FROM public.items WHERE price <= 300;
+
+SELECT * FROM public.customers WHERE lastname = 'Smith';
+
+SELECT * FROM public.customers WHERE lastname = 'Jones';
+
+SELECT * FROM public.customers WHERE lastname != 'Scott';

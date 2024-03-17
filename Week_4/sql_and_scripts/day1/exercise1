@@ -1,0 +1,74 @@
+--
+-- PostgreSQL database dump
+--
+
+-- Dumped from database version 16.2
+-- Dumped by pg_dump version 16.2
+
+SET statement_timeout = 0;
+SET lock_timeout = 0;
+SET idle_in_transaction_session_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SELECT pg_catalog.set_config('search_path', '', false);
+SET check_function_bodies = false;
+SET xmloption = content;
+SET client_min_messages = warning;
+SET row_security = off;
+
+SET default_tablespace = '';
+
+SET default_table_access_method = heap;
+
+--
+-- Name: customers; Type: TABLE; Schema: public; Owner: dvd
+--
+
+CREATE TABLE public.customers (
+    firstname character varying(255),
+    lastname character varying(255)
+);
+
+
+ALTER TABLE public.customers OWNER TO dvd;
+
+--
+-- Name: items; Type: TABLE; Schema: public; Owner: dvd
+--
+
+CREATE TABLE public.items (
+    item character varying,
+    price integer
+);
+
+
+ALTER TABLE public.items OWNER TO dvd;
+
+--
+-- Data for Name: customers; Type: TABLE DATA; Schema: public; Owner: dvd
+--
+
+COPY public.customers (firstname, lastname) FROM stdin;
+Greg	Jones
+Sandra	Jones
+Scott	Scott
+Trevor	Green
+Melanie	Johnson
+\.
+
+
+--
+-- Data for Name: items; Type: TABLE DATA; Schema: public; Owner: dvd
+--
+
+COPY public.items (item, price) FROM stdin;
+Small Desk	100
+Large Desk	300
+Fan	80
+\.
+
+
+--
+-- PostgreSQL database dump complete
+--
+
