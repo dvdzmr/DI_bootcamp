@@ -16,6 +16,7 @@
             </node>
             <node kind="database">
               <name qname="bootcamp" />
+              <name qname="dailychallengeday2" />
               <name qname="dvdrental" />
               <node kind="schema" qname="public" />
             </node>
