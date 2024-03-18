@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6da4bdcb-bb5a-489f-a9f8-1f56db4d9396" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Week_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql_and_scripts/day1/exercise1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql_and_scripts/day1/exercise1_queries.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql_and_scripts/day1/exercise2_queries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dvdrental.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_and_scripts/day2/exercise1_queries.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/bootcamp.c-wBeA/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/bootcamp.c-wBeA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/public.abK9xQ/schema/information_schema.FNRwLQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/public.abK9xQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/public.abK9xQ/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/public.abK9xQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/public.abK9xQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/public.abK9xQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/dvd/Documents/GitHub/DeveloperInstitute/Week_4/sql_and_scripts"
+    "last_opened_file_path": "/home/dvd/Documents/GitHub/DeveloperInstitute/Week_4/dvdrental.tar"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
