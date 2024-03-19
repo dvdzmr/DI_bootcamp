@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da4bdcb-bb5a-489f-a9f8-1f56db4d9396" name="Changes" comment="" />
+    <list default="true" id="6da4bdcb-bb5a-489f-a9f8-1f56db4d9396" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/dvdrental.tq3APg/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/dvdrental.tq3APg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/public.abK9xQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8cec0510-b386-4fa1-b191-c8ed83b3db24/storage_v2/_src_/database/public.abK9xQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
