@@ -15,14 +15,9 @@
               <node kind="schema" qname="@" />
             </node>
             <node kind="database">
-              <name qname="bootcamp" />
-              <name qname="dailychallengeday2" />
-              <name qname="dailychallengeday3" />
-              <name qname="dvdrental" />
+              <name qname="exercise_one_dayfour" />
+              <name qname="menu_items" />
               <node kind="schema" qname="public" />
-            </node>
-            <node kind="database" qname="public">
-              <node kind="schema" negative="1" />
             </node>
           </node>
         </introspection-scope>
