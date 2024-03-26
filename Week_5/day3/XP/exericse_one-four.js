@@ -15,10 +15,7 @@ const prices = {
     "blueberry":10
 } 
 
-
 shoppingList = ["banana", "orange", "apple"]
-
-
 
 function displayNumbersDivisible(divisor)
 {
@@ -35,8 +32,6 @@ function displayNumbersDivisible(divisor)
     console.log("Outcome " + listNum)
     console.log("Sum " + sum)
 }
-
-
 displayNumbersDivisible(23)
 displayNumbersDivisible(3)
 displayNumbersDivisible(45)
@@ -54,7 +49,6 @@ function myBill()
       } 
       console.log("Total is " + total)
 }
-
 myBill()
 
 
@@ -71,7 +65,6 @@ function changeEnough(itemPrice, amountOfChange)
         return false
     }
 }
-
 console.log(changeEnough(4.25, [25, 20, 5, 0]))
 console.log(changeEnough(14.11, [2,100,0,0]))
 console.log(changeEnough(0.75, [0,0,20,5]))
@@ -156,5 +149,4 @@ function totalVacationCost()
 
     console.log("Hotel cost:" + hotel + " Plane cost: " + plane + " Car cost: " + car)
 }
-
 totalVacationCost()
