@@ -1,19 +1,19 @@
 import express from "express";
 const router = express.Router();
-
-
 const blogPosts = [];
 
-router.get("/", (res) => {
+
+
+router.get("/", (req, res) => {
     res.send("Homepage");
   });
   
-router.get("/posts", (res) => {
+router.get("/posts", (req, res) => {
     res.send(blogPosts);
 });
 
-router.get("/posts/:id", (res) => {
-    const { id } = res.params;
+router.get("/posts/:id", (req, res) => {
+    const { id } = req.params;
     const getBlog = blogPosts.find((blogPosts) => blogPosts.id === parseInt(id));
     if (getBlog) {
         return res.send(getBlog)
@@ -51,7 +51,6 @@ router.put("/posts/:id", (req, res) => {
     updateBlogpost.content = content;
     res.json(updatedTodo);
 });
-
 
 router.delete("/posts/:id", (req, res) => {
     const id = req.params;

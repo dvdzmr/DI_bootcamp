@@ -4,16 +4,16 @@ const router = express.Router();
 
 const books = [];
 
-router.get("/", (res) => {
+router.get("/", (req, res) => {
     res.send("Homepage");
   });
   
-router.get("/book", (res) => {
+router.get("/book", (req, res) => {
     res.send(books);
 });
 
-router.get("/book/:id", (res) => {
-    const { id } = res.params;
+router.get("/book/:id", (req, res) => {
+    const { id } = res;
     const getBlog = books.find((blogbook) => blogbook.id === parseInt(id));
     if (getBlog) {
         return res.send(getBlog)

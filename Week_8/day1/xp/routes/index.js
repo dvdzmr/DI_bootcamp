@@ -5,19 +5,19 @@ const todos = [];
 const books = [];
 
 // get
-router.get("/", (res) => {
+router.get("/", (req, res) => {
   res.send("Homepage");
 });
 
-router.get("/about", (res) => {
+router.get("/about", (req, res) => {
   res.send("Aboutpage");
 });
 
-router.get("/todos", (res) => {
+router.get("/todos", (req, res) => {
   res.json(todos);
 });
 
-router.get("/books", (res) => {
+router.get("/books", (req, res) => {
   res.json(books);
 });
 
