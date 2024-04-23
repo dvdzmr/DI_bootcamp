@@ -1,0 +1,33 @@
+.languages {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.language {
+    color: black;
+    display: flex;
+    text-align: center;
+    background-color: #ffebcd;
+    justify-content: space-between;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.language > span {
+    
+    padding: 1rem;
+    /* margin: 1rem; */
+}
+
+.language button {
+    color: green;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.language button:hover {
+    scale: 1.02;
+}
