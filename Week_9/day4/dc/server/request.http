@@ -1,0 +1,9 @@
+# GET http://localhost:3001/api/hello
+
+
+POST http://localhost:3001/hello/world
+Content-Type: application/json
+
+{
+    "message": "Hello"
+}
