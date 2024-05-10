@@ -64,10 +64,10 @@ function updateInfo(resp) {
   height.innerText = `Height: ${resp.height}`;
   gender.innerText = `Gender: ${resp.gender}`;
   birthYear.innerText = `Birth Year: ${resp.birth_year}`;
-  // homeWorld.innerText = `Home World: ${planet}`;
+  // homeWorld.innerText = `Main World: ${planet}`;
 }
 
-//Display Home World
+//Display Main World
 function updateInfo2(re) {
   // console.log(re.name)
   // return re.name;

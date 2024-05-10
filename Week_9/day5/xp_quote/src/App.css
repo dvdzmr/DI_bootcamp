@@ -1,0 +1,27 @@
+body {
+  background-color: aquamarine;
+  font-family: 'Segoe UI', Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif
+}
+
+.box {
+  background-color: white;
+  border-radius: 0.5rem;
+  width: 70%;
+  margin-inline: auto;
+  margin-block: 7rem;
+  padding: 1rem;
+}
+
+.box h1 {
+  margin: 20px;
+}
+
+.box button {
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: gray;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+}

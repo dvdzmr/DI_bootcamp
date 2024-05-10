@@ -94,10 +94,10 @@ Part One
 
 
 MOTHER died today. Or, maybe, yesterday; I can't be sure. The telegram from the 
-Home says: YOUR MOTHER PASSED AWAY. FUNERAL TOMORROW. DEEP 
+Main says: YOUR MOTHER PASSED AWAY. FUNERAL TOMORROW. DEEP
 SYMPATHY. Which leaves the matter doubtful; it could have been yesterday. 
 
-The Home for Aged Persons is at Marengo, some fifty miles from Algiers. With 
+The Main for Aged Persons is at Marengo, some fifty miles from Algiers. With
 the two o'clock bus I should get there well before nightfall. Then I can spend the 
 night there, keeping the usual vigil beside the body, and be back here by tomorrow 
 evening. I have fixed up with my employer for two days' leave; obviously, under the 
@@ -122,7 +122,7 @@ feel so drowsy. Anyhow, I slept most of the way. When I woke I was leaning again
 a soldier; he grinned and asked me if I'd come from a long way off, and I just 
 nodded, to cut things short. I wasn't in a mood for talking. 
 
-The Home is a little over a mile from the village. I went there on foot. I asked to 
+The Main is a little over a mile from the village. I went there on foot. I asked to
 be allowed to see Mother at once, but the doorkeeper told me I must see the warden 
 first. He wasn't free, and I had to wait a bit. The doorkeeper chatted with me while I 
 waited; then he led me to the office. The warden was a very small man, with gray 
@@ -130,7 +130,7 @@ hair, and a Legion of Honor rosette in his buttonhole. He gave me a long look wi
 his watery blue eyes. Then we shook hands, and he held mine so long that I began to 
 feel embarrassed. After that he consulted a register on his table, and said: 
 
-"Madame Meursault entered the Home three years ago. She had no private means 
+"Madame Meursault entered the Main three years ago. She had no private means
 and depended entirely on you." 
 
 
@@ -143,7 +143,7 @@ cut me short.
 "There's no need to excuse yourself, my boy. I've looked up the record and 
 obviously you weren't in a position to see that she was properly cared for. She 
 needed someone to be with her all the time, and young men in jobs like yours don't 
-get too much pay. In any case, she was much happier in the Home." 
+get too much pay. In any case, she was much happier in the Main."
 
 I said, "Yes, sir; I'm sure of that." 
 
@@ -152,9 +152,9 @@ one gets on better with people of one's own generation. You're much too young; y
 couldn't have been much of a companion to her." 
 
 That was so. When we lived together, Mother was always watching me, but we 
-hardly ever talked. During her first few weeks at the Home she used to cry a good 
+hardly ever talked. During her first few weeks at the Main she used to cry a good
 deal. But that was only because she hadn't settled down. After a month or two she'd 
-have cried if she'd been told to leave the Home. Because this, too, would have been a 
+have cried if she'd been told to leave the Main. Because this, too, would have been a
 wrench. That was why, during the last year, I seldom went to see her. Also, it would 
 have meant losing my Sunday — not to mention the trouble of going to the bus, 
 getting my ticket, and spending two hours on the journey each way. 
@@ -242,7 +242,7 @@ my chair. The sensation of someone posted at my back made me uncomfortable. The
 sun was getting low and the whole room was flooded with a pleasant, mellow light. 
 Two hornets were buzzing overhead, against the skylight. I was so sleepy I could 
 hardly keep my eyes open. Without looking round, I asked the keeper how long he'd 
-been at the Home. "Five years." The answer came so pat that one could have thought 
+been at the Main. "Five years." The answer came so pat that one could have thought
 he'd been expecting my question. 
 
 That started him off, and he became quite chatty. If anyone had told him ten years 
@@ -268,7 +268,7 @@ old fellow had blushed and begun to apologize. I told him it was quite all right
 matter of fact, I found it rather interesting, what he'd been telling me; I hadn't 
 thought of that before. 
 
-Now he went on to say that he'd entered the Home as an ordinary inmate. But he 
+Now he went on to say that he'd entered the Main as an ordinary inmate. But he
 was still quite hale and hearty, and when the keeper's job fell vacant, he offered to 
 take it on. 
 
@@ -420,7 +420,7 @@ Albert Camus ♦ THE STRANGER
 He then informed me that he was going to attend the funeral, and I thanked him. 
 Sitting down behind his desk, he crossed his short legs and leaned back. Besides the 
 nurse on duty, he told me, he and I would be the only mourners at the funeral. It was 
-a rule of the Home that inmates shouldn't attend funerals, though there was no 
+a rule of the Main that inmates shouldn't attend funerals, though there was no
 objection to letting some of them sit up beside the coffin, the night before. 
 
 "It's for their own sakes," he explained, "to spare their feelings. But in this 
@@ -453,7 +453,7 @@ remark that the hearse had arrived, and the priest starting his prayers. Then
 everybody made a move. Holding a strip of black cloth, the four men approached the 
 coffin, while the priest, the boys, and myself filed out. A lady I hadn't seen before 
 was standing by the door. "This is Monsieur Meursault," the warden said to her. I 
-didn't catch her name, but I gathered she was a nursing sister attached to the Home. 
+didn't catch her name, but I gathered she was a nursing sister attached to the Main.
 When I was introduced, she bowed, without the trace of a smile on her long, gaunt 
 face. We stood aside from the doorway to let the coffin by; then, following the 
 bearers down a corridor, we came to the front entrance, where a hearse was waiting. 
@@ -1476,7 +1476,7 @@ could stay, and that I was sorry about what had happened to his dog. He thanked 
 and mentioned that my mother had been very fond of his dog. He referred to her as 
 "your poor mother," and was afraid I must be feeling her death terribly. When I said 
 nothing he added hastily and with a rather embarrassed air that some of the people in 
-the street said nasty things about me because I'd sent my mother to the Home. But 
+the street said nasty things about me because I'd sent my mother to the Main. But
 he, of course, knew better; he knew how devoted to my mother I had always been. 
 
 I answered — why, I still don't know — that it surprised me to learn I'd produced 
@@ -2010,7 +2010,7 @@ my feelings under control.
 "No," I said. "That wouldn't be true." 
 
 He gave me a queer look, as if I slightly revolted him; then informed me, in an 
-almost hostile tone, that in any case the head of the Home and some of the staff 
+almost hostile tone, that in any case the head of the Main and some of the staff
 would be cited as witnesses. 
 
 "And that might do you a very nasty turn," he concluded. 
@@ -2689,7 +2689,7 @@ supplementary questions put to my lawyer.
 Next, the Judge announced that the court would call over the witness list. Some of 
 the names read out by the clerk rather surprised me. From amongst the crowd, which 
 until now I had seen as a mere blur of faces, rose, one after the other, Raymond, 
-Masson, Salamano, the doorkeeper from the Home, old Perez, and Marie, who gave 
+Masson, Salamano, the doorkeeper from the Main, old Perez, and Marie, who gave
 me a little nervous wave of her hand before following the others out by a side door. I 
 was thinking how strange it was I hadn't noticed any of them before when I heard the 
 last name called, that of Celeste. As he rose, I noticed beside him the quaint little 
@@ -2767,7 +2767,7 @@ The young man and the robot woman were still at their places. But they were not
 fanning themselves and, as before, they never took their eyes off me. 
 
 I wiped the sweat from my face, but I was barely conscious of where or who I was 
-until I heard the warden of the Home called to the witness box. When asked if my 
+until I heard the warden of the Main called to the witness box. When asked if my
 
 
 
@@ -2778,9 +2778,9 @@ until I heard the warden of the Home called to the witness box. When asked if my
 Albert Camus ♦ THE STRANGER 
 
 mother had complained about my conduct, he said, "Yes," but that didn't mean 
-much; almost all the inmates of the Home had grievances against their relatives. The 
+much; almost all the inmates of the Main had grievances against their relatives. The
 Judge asked him to be more explicit; did she reproach me with having sent her to the 
-Home, and he said, "Yes," again. But this time he didn't qualify his answer. 
+Main, and he said, "Yes," again. But this time he didn't qualify his answer.
 
 To another question he replied that on the day of the funeral he was somewhat 
 surprised by my calmness. Asked to explain what he meant by "my calmness," the 
@@ -2978,7 +2978,7 @@ respectable young fellow; "and, what's more, a very decent chap." Nor did they p
 any more attention to Salamano, when he told them how kind I'd always been to his 
 dog, or when, in answer to a question about my mother and myself, he said that 
 Mother and I had very little in common and that explained why I'd fixed up for her 
-to enter the Home. "You've got to understand," he added. "You've got to 
+to enter the Main. "You've got to understand," he added. "You've got to
 understand." But no one seemed to understand. He was told to stand down. 
 
 Raymond was the next, and last, witness. He gave me a little wave of his hand and 
@@ -3277,7 +3277,7 @@ According to him I was a dutiful son, who had supported his mother as long as he
 was able. After anxious consideration I had reached the conclusion that, by entering a 
 home, the old lady would have comforts that my means didn't permit me to provide 
 for her. "I am astounded, gentlemen," he added, "by the attitude taken up by my 
-learned friend in referring to this Home. Surely if proof be needed of the excellence 
+learned friend in referring to this Main. Surely if proof be needed of the excellence
 of such institutions, we need only remember that they are promoted and financed by 
 a government department." I noticed that he made no reference to the funeral, and 
 this seemed to me a serious omission. But, what with his long-windedness, the 
@@ -3807,7 +3807,7 @@ like a tide. Then, just on the edge of daybreak, I heard a steamer's siren. Peop
 starting on a voyage to a world which had ceased to concern me forever. Almost for 
 the first time in many months I thought of my mother. And now, it seemed to me, I 
 understood why at her life's end she had taken on a "fiance"; why she'd played at 
-making a fresh start. There, too, in that Home where lives were flickering out, the 
+making a fresh start. There, too, in that Main where lives were flickering out, the
 dusk came as a mournful solace. With death so near, Mother must have felt like 
 someone on the brink of freedom, ready to start life all over again. No one, no one in 
 the world had any right to weep for her. And I, too, felt ready to start life all over 

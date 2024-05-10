@@ -77,7 +77,7 @@ function NavBar() {
 }
 
 // function HomeScreen() {
-//     return <h1>Home</h1>
+//     return <h1>Main</h1>
 // }
 
 function ShopScreen() {
