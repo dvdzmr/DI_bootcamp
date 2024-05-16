@@ -1,1 +1,0 @@
-https://github.com/darrionramdin/react-day-planner
